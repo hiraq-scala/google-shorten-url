@@ -10,12 +10,12 @@ maybe i will create a shortened url too.
 
 ###How to run :
 
-I'm using <pre>sbt-pack</pre> to packaging the source code.  Just try to run this command:
+I'm using <code>sbt-pack</code> to packaging the source pre.  Just try to run this command:
 
-<code>
+<pre>
 	sbt-pack
-</code>
+</pre>
 
-<code>
+<pre>
 	$: target/pack/bin/shorten "http://goo.gl/7VYxtt"
-</code>
+</pre>
